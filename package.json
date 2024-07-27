@@ -1,6 +1,6 @@
 {
-  "name": "remotion-confetti",
-  "version": "0.3.0",
+  "name": "eas-remotion-confetti",
+  "version": "0.6.1",
   "description": "Confetti for Remotion",
   "main": "dist/index.esm.js",
   "types": "dist/index.d.ts",
@@ -24,7 +24,7 @@
   "homepage": "https://github.com/onion2k/remotion-confetti#readme",
   "peerDependencies": {
     "react": "^18.2.0",
-    "remotion": ">=3.0.19"
+    "remotion": ">=4.0.187"
   },
   "devDependencies": {
     "@jonny/eslint-config": "^3.0.266",
